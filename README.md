@@ -5,4 +5,5 @@ The vulnerability can be exploited with the backup file of the router settings.
 
 
 ![1](https://user-images.githubusercontent.com/62970873/78092598-8e74b500-73a6-11ea-89bb-62ab23a23d37.JPG)
-
+![]
+![]
